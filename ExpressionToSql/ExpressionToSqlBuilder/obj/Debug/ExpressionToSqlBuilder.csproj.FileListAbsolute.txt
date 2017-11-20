@@ -1,0 +1,4 @@
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSqlBuilder\bin\Debug\ExpressionToSqlBuilder.dll
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSqlBuilder\bin\Debug\ExpressionToSqlBuilder.pdb
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSqlBuilder\obj\Debug\ExpressionToSqlBuilder.dll
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSqlBuilder\obj\Debug\ExpressionToSqlBuilder.pdb

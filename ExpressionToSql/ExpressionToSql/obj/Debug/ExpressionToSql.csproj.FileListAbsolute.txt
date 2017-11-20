@@ -1,0 +1,8 @@
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\bin\Debug\ExpressionToSql.exe.config
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\bin\Debug\ExpressionToSql.exe
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\bin\Debug\ExpressionToSql.pdb
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\obj\Debug\ExpressionToSql.exe
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\obj\Debug\ExpressionToSql.pdb
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\bin\Debug\ExpressionToSqlBuilder.dll
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\bin\Debug\ExpressionToSqlBuilder.pdb
+c:\users\trifon.dardzhonov\documents\visual studio 2015\Projects\ExpressionToSql\ExpressionToSql\obj\Debug\ExpressionToSql.csprojResolveAssemblyReference.cache
